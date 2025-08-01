@@ -1,0 +1,14 @@
+# Ignorar entorno virtual
+venv/
+
+# Ignorar archivos de caché
+__pycache__/
+*.pyc
+
+# Ignorar modelos grandes si los subirás manualmente a Render
+*.h5
+*.pkl
+
+# Otros comunes
+.DS_Store
+.env
